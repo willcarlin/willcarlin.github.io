@@ -1,0 +1,77 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+h1{
+  background-color:saddlebrown;
+  font-size: 50px;
+}
+body{
+  height: 100%;
+  background-color:yellow;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 790px;
+}
+
+nav {
+  border: 2px solid black;
+  line-height:;
+  background-color:saddlebrown;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type:circle;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 175px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
+.paragraph1 {
+  background-color:saddlebrown;
+  width:150px
+}
+h2{
+  background-color:saddlebrown;
+  font-size: 25px;
+  width:125px;
+}
+.paragraph2{
+  background-color:saddlebrown;
+  width:200px
+}

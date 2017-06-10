@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Squatter</title>
+</head>
+<body>
+  <h1>Squatter Spotter</h1>
+  <img src="http://porta-potty.com/images/fleet2T.jpg">
+  <nav>
+    <ul>
+      <li>description</li>
+      <li>disclaimer</li>
+    </ul>
+  </nav>
+  <h2>description</h2>
+    <p>this is the description of what we do</p>
+  <h2>disclaimer</h2>
+    <p>This is the disclaimer</p>
+</body>
